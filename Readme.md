@@ -1,1 +1,1 @@
-Auto Script for DNS Configuration on CentOS
+Auto Script for DNS Configuration on CentOS7
